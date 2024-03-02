@@ -1,0 +1,2 @@
+# admin-dashboard
+Hi admin dashboard is an assignment for the odin project program 
